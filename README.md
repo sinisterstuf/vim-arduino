@@ -3,6 +3,8 @@
 This script allows you to compile and deploy Arduino (*.pde) sketches
 directly from Vim.
 
+It also includes syntax highlighting [by Johannes Hoff](http://www.vim.org/scripts/script.php?script_id=2654).
+
 ## Install
 
 The plugin should be organized in a manner that works well with
